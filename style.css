@@ -1,0 +1,63 @@
+body {
+background-color: seashell;
+}
+h1 {
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 50px;
+color: maroon;
+text-align: center;
+margin-top: 20mm; 
+margin-left: 10mm;
+margin-right: 20mm;
+margin-bottom: 20mm;
+text-decoration: overline;
+text-transform: uppercase;
+}
+h2 {
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 30px;
+text-decoration: underline;
+text-transform: uppercase;
+text-align: center;
+margin-top: 10mm;
+margin-bottom: 10mm;
+font-weight: 900;
+}
+ul {
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 20px;
+text-align: center;
+margin-top: 10mm;
+margin-bottom: 10mm;
+list-style-type: square;
+}
+div1 {
+position: relative; 
+display: block;
+margin-left: 520px;
+margin-bottom: 10mm;
+margin-right: 493px;
+border: solid;
+}
+div2 {
+position: relative; 
+display: block;
+margin-left: 400px;
+margin-bottom: 10mm;
+margin-right: 400px;
+border: solid;
+}
+div3 {
+position: relative; top: 10mm;
+display: block;
+margin-left: 370px;
+margin-bottom: 10mm;
+margin-right: 321px;
+border: solid;
+}
+p {
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 20px;
+text-align: center;
+margin-top: 10mm;
+}
